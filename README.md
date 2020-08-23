@@ -1,1 +1,1 @@
-# JUnitExamples
+# JUnit
